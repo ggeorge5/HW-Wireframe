@@ -38,6 +38,12 @@ header {
     height: 250px;
 }
 
+.article {
+    background-color: grey;
+    color: white;
+    height: 200px;
+}
+
 #aside {
     padding: 20px;
     margin-left: 10px;
